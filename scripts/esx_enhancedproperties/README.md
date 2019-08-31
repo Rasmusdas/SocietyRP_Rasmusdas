@@ -1,4 +1,4 @@
-This is very bare bones and not even tested.
+This is very bare bones.
 
 I've removed a lot of the functionality and content from this and all of the customization. THIS WILL NOT WORK IF YOU JUST PUT IT INTO YOUR SERVER
 
