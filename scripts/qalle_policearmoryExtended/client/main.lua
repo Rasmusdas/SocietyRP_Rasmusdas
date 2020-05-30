@@ -11,7 +11,6 @@ Citizen.CreateThread(function()
 		ESX.UI.Menu.CloseAll()
 	end
 	Citizen.Wait(250)
-	ESX.TriggerServerCallback("qalle_policearmory:checkStorage", function(stock) end)
 end)
 
 RegisterNetEvent("esx:playerLoaded")
